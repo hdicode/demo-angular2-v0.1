@@ -1,0 +1,23 @@
+/* Master Styles */
+
+body {
+}
+
+.dem-logo{
+  font-size:150%;
+  color:deeppink;
+}
+
+.nav-active{
+  color:#999;
+  font-size:150%;
+}
+
+.dem-start{
+  margin-top:2rem;
+}
+
+.media .dem-author{
+  margin-left:1rem;
+  color:#999;
+}
